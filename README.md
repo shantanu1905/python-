@@ -9,4 +9,4 @@ code 3 -Write a python program to check whether a given year is leap or not.
 
 code 4 -Write a python program to print a table of given number.
 
-code 5 -md5 hash to text converter , all you need is password.txt which contains the passwaord for which you want to convert md5 hash to text.
+code(crack) -md5 hash to text converter , all you need is password.txt which contains the passwaord for which you want to convert md5 hash to text.

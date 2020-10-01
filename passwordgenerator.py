@@ -1,12 +1,11 @@
+# TO GENERATE A PASSWORD COMIBINATION OF ALPHANUMERIC CHARACTERS
 import random
+import string
 
-lower = "qwertyuioplkjhgfdsazxcvbnm"
-upper = "QWERTYUIOPASDFGHJKLZXCVBNM"
-numbers = "0123456789"
-symbols = "!@#$%&*_-\/?"
+def get_random_alphanumeric_string(length):
+    letters_and_digits = string.ascii_letters + string.digits
+    result_str = ''.join((random.choice(letters_and_digits) for i in range(length)))
+    print("Random alphanumeric String is:", result_str)
 
-all = lower + upper +numbers + symbols
-
-length = 10
-password ="".join(random.sample(all,length))
-print(password)
+get_random_alphanumeric_string(8)
+get_random_alphanumeric_string(8)

@@ -1,3 +1,10 @@
-n=int(input("Enter the number to print the tables for:"))
-for i in range(1,11):
-    print(n,"x",i,"=",n*i)
+# User enters the number
+number = int(input("Enter number: "))
+
+# checking the number
+if number < 0: print("The entered number is negative.") elif number > 0:
+    print("The entered number is positive.")
+elif number == 0:
+    print("Number is zero.")
+else:
+    print("The input is not a number")

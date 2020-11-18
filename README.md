@@ -17,3 +17,10 @@
 :heavy_check_mark: Program is build on **Socket** Library. <br>
 :heavy_check_mark: This program helps you to find your **HOST NAME** and **IP Address**. <br>
 :bookmark_tabs: project link - https://github.com/shantanu1905/python-/blob/master/get%20Host%20IP%20addresss.py
+
+
+## :triangular_flag_on_post: Password Generator
+
+:warning: **usage of program**<br>
+:heavy_check_mark: This program helps you to Generate a password of, combination of Alphanumeric character. <br>
+:bookmark_tabs: project link - https://github.com/shantanu1905/python-/blob/master/passwordgenerator.py

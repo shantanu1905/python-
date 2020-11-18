@@ -7,3 +7,4 @@
 :heavy_check_mark: you can copy html code from output screen . <br>
 :heavy_check_mark: save it as text.html file . <br>
 :heavy_check_mark:Note that only html code get extracted . <br>
+project link :bookmark_tabs:  https://github.com/shantanu1905/python-/blob/master/Html%20page%20extractor.py

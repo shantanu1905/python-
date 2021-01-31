@@ -24,3 +24,10 @@
 :warning: **usage of program**<br>
 :heavy_check_mark: This program helps you to Generate a password of, combination of Alphanumeric character. <br>
 :bookmark_tabs: project link - https://github.com/shantanu1905/python-/blob/master/passwordgenerator.py
+
+
+## :triangular_flag_on_post: Todo List
+:warning: **usage of program**<br>
+:heavy_check_mark: This program helps you to keep track of your daily task . <br>
+:bookmark_tabs: project link - https://github.com/shantanu1905/python-/tree/master/python-Todo%20list
+

@@ -36,6 +36,6 @@
 :heavy_check_mark: this app is currently in development. To run app create virtual environment  <br>
 Copy whole folder in created folder .<br>
 Then - pip install flask , flask-mail , flask-SQLAlchemy  <br>
-:bookmark_tabs: project link - https://github.com/shantanu1905/python-/tree/master/Flask%20login_registration%20app/app
+:bookmark_tabs: project link - https://github.com/shantanu1905/python-/tree/master/flask-login
 
 

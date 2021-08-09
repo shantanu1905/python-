@@ -1,4 +1,4 @@
-# python-projects :atom: :octocat
+# python-projects :atom: :octocat:
 
 ## :triangular_flag_on_post: HTML page extractor
 

@@ -38,4 +38,9 @@
 :bookmark_tabs: project link - https://github.com/shantanu1905/python-/blob/master/Message%20Encoding%20and%20Decoding%20app.py
 
 
+## :triangular_flag_on_post: GUI Alarm Clock
+:warning: **About program**<br>
+:heavy_check_mark: This is GUI Alarm Clock app is built using  Tkinter and DateTime python library <br>
+:bookmark_tabs: project link - https://github.com/shantanu1905/python-/blob/master/GUI%20Alam%20Clock.py
+
 

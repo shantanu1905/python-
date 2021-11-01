@@ -44,3 +44,10 @@
 :bookmark_tabs: project link - https://github.com/shantanu1905/python-/blob/master/GUI%20Alam%20Clock.py
 
 
+
+## :triangular_flag_on_post: Desktop Notification APP
+:warning: **About program**<br>
+:heavy_check_mark: This is app is built using Notify2 and Requests python library <br>
+:bookmark_tabs: project link - https://github.com/shantanu1905/python-/tree/master/Destop%20notification
+
+
